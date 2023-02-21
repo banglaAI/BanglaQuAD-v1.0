@@ -1,1 +1,1 @@
-# BanglaQuAD
+# BanglaQuAD 1.0
